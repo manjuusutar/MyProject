@@ -1,3 +1,3 @@
 # MyProject
 - Devops Jounrney
-  * This will be useful for learning purpose.
+* Following are the content that will look into in this session.
