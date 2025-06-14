@@ -1,2 +1,3 @@
 # MyProject
-This will be useful for learning purpose.
+- Devops Jounrney
+  * This will be useful for learning purpose.
